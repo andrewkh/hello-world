@@ -1,2 +1,2 @@
 # hello-world
-learning git-hub
+learning git-hub basic functions
